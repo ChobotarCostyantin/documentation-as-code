@@ -1,0 +1,11 @@
+site_name: betterstack Documentation
+theme: material
+nav:
+  - Головна: README.md
+  - Архітектура:
+    - System Specification (SSD): architecture/SSD.md
+    - Software Design (SDD): architecture/SDD.md
+    - Infrastructure (ISD): architecture/ISD.md
+  - Забезпечення якості:
+    - Test Strategy: quality/test-strategy.md
+    - Traceability Matrix: quality/traceability-matrix.md
